@@ -1,2 +1,8 @@
-# BuscaCEP_API
-Desafio feito durante o curso de API e Java da Alura em que se utiliza o ViaCEP para buscar dados por meio do CEP
+# Busca por CEP com ViaCEP
+
+Neste pequeno projeto se é utilizado a API da ViaCEP para buscar e retornar dados específicos em um arquivo JSON de acordo com o CEP que o usuário enviar
+
+
+
+## Demonstração
+
