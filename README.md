@@ -6,3 +6,4 @@ Neste pequeno projeto se é utilizado a API da ViaCEP para buscar e retornar dad
 
 ## Demonstração
 
+<img src="/assets-para-readme/Demonstracao.gif">
